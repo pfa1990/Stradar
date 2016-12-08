@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Stradar Controller</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="bars">Bars</string>
+    <string name="bluetooth">Connect/Disconnect Bluetooth</string>
+    <string name="brake">B</string>
+    <string name="car_status">Car Status</string>
+    <string name="control_mode">Control Mode</string>
+    <string name="devices_list">---------- Devices List ----------</string>
+    <string name="direction">"Direction: "</string>
+    <string name="frontal_tilt">Frontal Tilt</string>
+    <string name="lateral_tilt">Lateral Tilt</string>
+    <string name="left">L</string>
+    <string name="no">No</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="right">R</string>
+    <string name="scan">Scan</string>
+    <string name="scanning">Scanning</string>
+    <string name="speed">"Speed: "</string>
+    <string name="speed_limit">Speed Limit</string>
+    <string name="throttle">T</string>
+    <string name="yes">Yes</string>
+</resources>
